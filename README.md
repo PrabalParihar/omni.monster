@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Website: [omni.monster](https://omni.monster)
-- Email: hello@omni.monster
+- Email:   swap@omni.monster
 - Twitter: [@omni_monster](https://twitter.com/omni_monster)
 
 ---
